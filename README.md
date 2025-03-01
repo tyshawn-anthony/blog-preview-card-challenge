@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-flexbox-rH3nUjRXxt](https://your-solution-url.com)
 - Live Site URL: [https://blog-preview-card-challenge-tyshawn-anthonys-projects.vercel.app/](https://your-live-site-url.com)
 
 ## My process

@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-flexbox-rH3nUjRXxt](https://www.frontendmentor.io/solutions/blog-preview-card-flexbox-rH3nUjRXxt)
-- Live Site URL: [https://blog-preview-card-challenge-tyshawn-anthonys-projects.vercel.app/](https://your-live-site-url.com)
+- Live Site URL: [https://blog-preview-card-challenge-tyshawn-anthonys-projects.vercel.app/](https://blog-preview-card-challenge-tyshawn-anthonys-projects.vercel.app/)
 
 ## My process
 
